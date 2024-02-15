@@ -1,1 +1,2 @@
 Esto es una prueba para aprender a manejar git y github.
+Esto lo he escrito en github y quiero ver como se hace un pull.
